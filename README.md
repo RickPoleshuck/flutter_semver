@@ -10,8 +10,8 @@ A command-line tool which simplifies the task of updating your Flutter app's ver
 
 #### 1. Setup the config file
 
-Add your Flutter Launcher name configuration to your `pubspec.yaml`.
-An example is shown below.
+Add flutter_semver configuration to your `pubspec.yaml`.
+Assumes that your project follows Semantic Versioning v2.0.0.
 
 ```yaml
 dev_dependencies: 
